@@ -1,1 +1,1 @@
-wwwwwwwwwwwwwwwww
+# файл, который тоже изменен но  в ветке awesome-feature
